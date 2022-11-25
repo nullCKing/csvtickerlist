@@ -1,4 +1,4 @@
-#full-tickers-list-csv
+Package link: https://pypi.org/project/full-tickers-list-csv/
 
 A simple package that allows users the ability to generate a CSV file that contains a full list of all active ticker symbols on the marketplace. This package uses a headless, Selenium Chrome browser to fetch this CSV file.
 
