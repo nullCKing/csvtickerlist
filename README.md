@@ -1,4 +1,4 @@
-Package link: https://pypi.org/project/full-tickers-list-csv/
+Package link: https://pypi.org/project/csvtickerlist/0.0.1/
 
 A simple package that allows users the ability to generate a CSV file that contains a full list of all active ticker symbols on the marketplace. This package uses a headless, Selenium Chrome browser to fetch this CSV file.
 
@@ -10,7 +10,7 @@ The CSV file contains ticker symbols, along with some basic information (i.e. Sh
 
 
 ```python
-from full-tickers-list-csv import GetCSV
+from csvtickerlist import GetCSV
 
 def GetDataFolder():
 	return filedialog.askdirectory(title = 'Select Folder')
