@@ -21,7 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=['selenium', 'time'],
+    install_requires=['selenium'],
     keywords=['python', 'stocks', 'tickers', 'algo-trading', 'finance'],
     classifiers=[
         "Development Status :: 1 - Planning",
